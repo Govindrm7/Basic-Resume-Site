@@ -4,9 +4,34 @@ This repository contains a basic resume site created using HTML and CSS. The sit
 
 ## Features
 
-- **HTML and CSS Elements:** The site has been developed using various HTML and CSS elements to structure and style the resume content.
-  
-- **Responsiveness:** The layout is designed to be responsive, ensuring it looks good on different devices and screen sizes.
+- Implemented HTML and HTML5 controls including:
+  - Favicon
+  - Table
+  - Form
+  - Images
+  - Hyperlinks
+  - Button
+  - Audio
+  - Video
+  - Header
+  - Footer
+  - Summary
+  - Menu
+  - `tel` attribute for contact information
+  - `mailto` for contact information
+
+- Utilized external CSS file for styling
+- Implemented `float` and `overflow` properties where necessary
+- Used column layout structure
+- Applied absolute and relative positioning as required
+- Styled tables using CSS selectors
+- Created a professional image gallery for certifications with hover effects and figure captions
+
+## Responsive Design
+
+- Ensured responsiveness using media queries for devices like iPad (768px) and smartphones (350 - 365px)
+- Made the website adaptable to various screen sizes for improved user experience
+
 
 ## Usage
 
